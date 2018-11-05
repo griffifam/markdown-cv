@@ -1,91 +1,88 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Amber-Lynn's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Amber-Lynn Griffin
+Class: Problem-Solver | Method: Code Software Development Student At Ada Developers Academy
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://www.linkedin.com/in/amber-lynn-griffin-52890215/">My LinkedIn Profile</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Full-time Software Development Student At Ada Developers Academy
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Massage Therapy [Cortiva Institute](https://www.cortiva.edu/locations/phoenix/massage-therapy-school/)
 
 
-### Research interests
+### Current interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Raspberry Pis, Japanese Language, Cryptograms, 90s Films
 
+### Strong Params
+
+- Collaboration/Peer Programming
+- Self-Starter
+- Technical Troubleshooting
+- HTML
+- CSS
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2018-2019`
+__Ada Developers Academy, Seattle, WA.__
+- Full-Time Student
+- Full Stack Software Development Student learning:
+- Ruby/Ruby on Rails
+- APIs (Building & Consuming)
+- HTML/CSS/Bootstrap
 
 
+`2006-2012`
+__Grand Valley State University, MI.__
+- Full-Time Student
+- received a full-tuition scholarship with courses primarily in audio/video production, public relations, and the Japanese language.
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+- Bachelor's of Arts, Broadcasting Communications
 
 
-## Publications
+`2009 Fall Semester`
+__Temple University - Japan Campus, Tokyo__
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- International Student
+- Completed one semester in Tokyo volunteering in elementary schools, learning the Japanese language
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2017-2018`
+__Hand & Stone Massage Spa__, Goodyear, AZ
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Licensed Massage Therapist
+- High Energy Massage Therapy with a range of knowledge on Massage Therapy. Able to relate well to staff and clients, alike.
 
 
+`2014 - 2018`
+__Western Maricopa Education Center__, Glendale, AZ
+
+- Lead Job Coach
+- Assist in all student services processes including; mentoring, academic advisement, recruitment and retention
+- Provide information to students, parents and supervisors regarding various students&#39; progression in
+- warehouse internship program
+- Corresponds with students, their parents, and internship supervisors to resolve problems related to student service functions
+- Prepares daily and monthly activity/progress reports
+
+
+`2014 - 2016`
+__Massage Envy__, Temple, AZ
+
+- Licensed Massage Therapist
+- Full-Time Licensed Massage Therapist with a focus on Deep-Tissue and Trigger Point Therapy
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: Oct 2018 -->
