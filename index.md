@@ -14,6 +14,8 @@ _______________________________________________________
 
 ## Currently
 
+Full-stack web development- [Ada Developers Academy](https://www.adadevelopersacademy.org/)
+
 Full-time Software Development Student At Ada Developers Academy
 
 ### Specialized in
@@ -21,9 +23,12 @@ Full-time Software Development Student At Ada Developers Academy
 Massage Therapy - [Cortiva Institute](https://www.cortiva.edu/locations/phoenix/massage-therapy-school/)
 
 
-### Current interests
+### Tools & Development Processes
+- **Languages & Frameworks //** Ruby, Rails, HTML, CSS, Postgres, Markdown; exposure to XML, Javascript;
+- **Tools //** Postman, Heroku
+- **OS //** MacOS and Windows
+- **Development Processes //** Test Driven Development, Agile, Kanban and Scrum.
 
-Raspberry Pis, Japanese Language, Cryptograms, 90s Films
 
 ### Strong Params
 
@@ -66,6 +71,7 @@ __Hand & Stone Massage Spa__, Goodyear, AZ
 
 - Licensed Massage Therapist
 - High Energy Massage Therapy with a range of knowledge on Massage Therapy. Able to relate well to staff and clients, alike.
+- Excels at client-relations and a variety of massage techniques.
 
 
 `2014 - 2018`
