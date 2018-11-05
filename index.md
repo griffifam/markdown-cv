@@ -5,7 +5,7 @@ title: Amber-Lynn's CV
 # Amber-Lynn Griffin
 Class: Problem-Solver | Method: Code
 _______________________________________________________
- Summary | Friendly, analytical team-oriented career service specialist with a passion for technical and client-based troubleshooting and servicing people of special populations. Looking for a place with a company that can utilize my expertise as a job trainer and career specialist and in exchange provide an environment of open-learning and professional development.
+Summary | Friendly, analytical team-oriented career service specialist with a passion for technical and client-based troubleshooting and servicing people of special populations. Looking for a place with a company that can utilize my expertise as a job trainer and career specialist and in exchange provide an environment of open-learning and professional development.
 
 <div id="webaddress">
 | <a href="https://www.linkedin.com/in/amber-lynn-griffin-52890215/">My LinkedIn Page</a>
@@ -16,18 +16,9 @@ _______________________________________________________
 
 Full-stack web development- [Ada Developers Academy](https://www.adadevelopersacademy.org/)
 
-Full-time Software Development Student At Ada Developers Academy
-
 ### Specialized in
 
 Massage Therapy - [Cortiva Institute](https://www.cortiva.edu/locations/phoenix/massage-therapy-school/)
-
-
-### Tools & Development Processes
-- **Languages & Frameworks //** Ruby, Rails, HTML, CSS, Postgres, Markdown; exposure to XML, Javascript;
-- **Tools //** Postman, Heroku
-- **OS //** MacOS and Windows
-- **Development Processes //** Test Driven Development, Agile, Kanban and Scrum.
 
 
 ### Strong Params
@@ -42,11 +33,13 @@ Massage Therapy - [Cortiva Institute](https://www.cortiva.edu/locations/phoenix/
 
 `2018-2019`
 __Ada Developers Academy, Seattle, WA.__
-- Full-Time Student
-- Full Stack Software Development Student learning:
-- Ruby/Ruby on Rails
-- APIs (Building & Consuming)
-- HTML/CSS/Bootstrap
+
+#### Tools & Development Processes
+- **Languages & Frameworks //** Ruby, Rails, HTML, CSS, Bootstrap, Postgres, Markdown; exposure to Consuming APIs;
+- **Tools //** Git, Postman, Heroku
+- **OS //** MacOS and Windows
+- **Development Processes //** Test Driven Development, Agile, Kanban and Scrum.
+
 
 
 `2006-2012`
