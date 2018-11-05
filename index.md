@@ -8,7 +8,7 @@ _______________________________________________________
  Summary | Friendly, analytical team-oriented career service specialist with a passion for technical and client-based troubleshooting and servicing people of special populations. Looking for a place with a company that can utilize my expertise as a job trainer and career specialist and in exchange provide an environment of open-learning and professional development.
 
 <div id="webaddress">
-| <a href="https://www.linkedin.com/in/amber-lynn-griffin-52890215/">My LinkedIn Profile</a>
+| <a href="https://www.linkedin.com/in/amber-lynn-griffin-52890215/">My LinkedIn Page</a>
 </div>
 
 
@@ -18,7 +18,7 @@ Full-time Software Development Student At Ada Developers Academy
 
 ### Specialized in
 
-Massage Therapy [Cortiva Institute](https://www.cortiva.edu/locations/phoenix/massage-therapy-school/)
+Massage Therapy - [Cortiva Institute](https://www.cortiva.edu/locations/phoenix/massage-therapy-school/)
 
 
 ### Current interests
