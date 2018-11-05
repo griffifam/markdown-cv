@@ -3,7 +3,9 @@ layout: cv
 title: Amber-Lynn's CV
 ---
 # Amber-Lynn Griffin
-Class: Problem-Solver | Method: Code Software Development Student At Ada Developers Academy
+Class: Problem-Solver | Method: Code
+_______________________________________________________
+ Summary | Friendly, analytical team-oriented career service specialist with a passion for technical and client-based troubleshooting and servicing people of special populations. Looking for a place with a company that can utilize my expertise as a job trainer and career specialist and in exchange provide an environment of open-learning and professional development.
 
 <div id="webaddress">
 | <a href="https://www.linkedin.com/in/amber-lynn-griffin-52890215/">My LinkedIn Profile</a>
